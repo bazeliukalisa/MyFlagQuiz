@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Flag Quiz</string>
+    <string name="action_settings">Settings</string>
+    <string name="default_region">North_America</string>
+    <string name="default_region_message">You must choose at least one region. By default, the North America region will be set</string>
+    <string name="question">Question %1$d from %2$d</string>
+    <string name="image_description">The flag image</string>
+    <string name="guess_country">What is this country?</string>
+    <string name="number_of_choices">Number of possibilities</string>
+    <string name="number_of_choices_description">Display for select 2, 4, 6 or 8 options</string>
+    <string name="world_regions">Regions</string>
+    <string name="world_regions_desriptions">Regions for the quiz</string>
+    <string name="results">%1$d answers, %2$.02f%% correct</string>
+    <string name="restarting_quiz">The quiz will run with new settings</string>
+    <string name="reset_quiz">Reset Quiz</string>
+    <string name="incorrect_answer">The wrong answer!</string>
+    <string name="title_activity_settings">Settings</string>
+</resources>
